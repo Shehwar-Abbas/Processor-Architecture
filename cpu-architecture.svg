@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 360" role="img" aria-labelledby="title desc">
+<title id="title">CPU architecture illustration</title><desc id="desc">A stylized processor chip with circuit traces extending outward.</desc>
+<defs><linearGradient id="chip" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#25496b"/><stop offset="1" stop-color="#0b1526"/></linearGradient><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#54d7f5"/><stop offset="1" stop-color="#9b8cff"/></linearGradient></defs>
+<g fill="none" stroke="url(#edge)" stroke-width="2" stroke-linecap="round" opacity=".9">
+<path d="M95 90H45V55H20M95 120H55V145H20M95 165H35V195H12M95 210H50V245H20M95 245H70V285H35"/>
+<path d="M325 90H375V55H400M325 120H365V145H405M325 165H385V195H410M325 210H370V245H400M325 245H350V285H390"/>
+<path d="M145 55V22H125M180 55V15M220 55V22H240M260 55V28H280M145 305V335H125M180 305V345M220 305V335H240M260 305V328H280"/>
+</g>
+<g fill="#54d7f5"><circle cx="20" cy="55" r="4"/><circle cx="20" cy="145" r="4"/><circle cx="12" cy="195" r="4"/><circle cx="20" cy="245" r="4"/><circle cx="35" cy="285" r="4"/><circle cx="400" cy="55" r="4"/><circle cx="405" cy="145" r="4"/><circle cx="410" cy="195" r="4"/><circle cx="400" cy="245" r="4"/><circle cx="390" cy="285" r="4"/></g>
+<rect x="82" y="68" width="256" height="224" rx="25" fill="#07111f" stroke="url(#edge)" stroke-width="3"/>
+<rect x="101" y="87" width="218" height="186" rx="17" fill="url(#chip)" stroke="#54d7f5" stroke-opacity=".5"/>
+<path d="M117 106H303M117 254H303" stroke="#54d7f5" stroke-opacity=".18" stroke-width="1"/>
+<g stroke="#54d7f5" stroke-width="2" opacity=".7"><path d="M115 78v-12m20 12v-12m20 12v-12m20 12v-12m20 12v-12m20 12v-12m20 12v-12m20 12v-12m20 12v-12m20 12v-12"/><path d="M115 292v12m20-12v12m20-12v12m20-12v12m20-12v12m20-12v12m20-12v12m20-12v12m20-12v12m20-12v12"/></g>
+<rect x="132" y="118" width="156" height="124" rx="13" fill="#0a1728" stroke="url(#edge)" stroke-width="2"/>
+<g fill="none" stroke="#294a69" stroke-width="1.5"><path d="M145 132H275M145 143H275M145 217H275M145 228H275M145 132V228M158 132V228M172 132V228M186 132V228M200 132V228M214 132V228M228 132V228M242 132V228M256 132V228M275 132V228"/></g>
+<text x="210" y="174" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="4" fill="#eef5ff">CPU</text><text x="210" y="195" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="2" fill="#54d7f5">ARCHITECTURE</text><text x="210" y="208" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" letter-spacing="1.4" fill="#9b8cff">CORE / CACHE / ISA</text>
+</svg>
